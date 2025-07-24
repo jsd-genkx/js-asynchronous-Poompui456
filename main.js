@@ -40,7 +40,7 @@ runButton.addEventListener("click", () => {
 	/* 11-promise-all */
 	// promiseAllOrders();
 	/* 12-fetch-data-basic.js */
-	// fetchDataBasic();
+	fetchDataBasic();
 	/* 13-async-await-basic.js */
 	// asyncAwaitBasic();
 	/* 14-fetch-data-async.js */
